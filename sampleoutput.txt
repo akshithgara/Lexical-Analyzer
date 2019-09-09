@@ -1,0 +1,15 @@
+14
+1: Integer.
+2: Decimal.
+3: Keyword.
+4: Hexadecimal.
+5: Scientific.
+6: INVALID!
+7: Identifier.
+8: INVALID!
+9: INVALID!
+10: Integer.
+11: Phone.
+12: Identifier.
+13: Identifier.
+14: INVALID!
